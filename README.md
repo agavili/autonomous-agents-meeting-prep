@@ -6,7 +6,7 @@ This repo contains scripts that leverage the CrewAI framework to automate the pr
 CrewAI is designed to facilitate the collaboration of role-playing AI agents. In this example, these agents work together to identify use cases and put together a solution to solve a specific industry problem.
 
 ## Details & Explanation
-- **Running the Script**: Execute `python main.py`` and input your idea when prompted. The script will leverage the CrewAI framework to process the idea and generate a meeting brief document.
+- **Running the Script**: Execute ```python main.py``` and input your idea when prompted. The script will leverage the CrewAI framework to process the idea and generate a meeting brief document.
 - **Key Components**:
   - `./main.py`: Main script file.
   - `./tasks.py`: Main file with the tasks prompts.
